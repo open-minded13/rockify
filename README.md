@@ -10,7 +10,7 @@ Rockify is a machine learning project that aims to classify rock music tracks in
 
 - Rockify allows users to enter a song URL and will tell them the subgenre of the song:
   
-  <kbd><img src="https://github.com/open-minded13/2023_Rockify/assets/52095472/d1184af4-fef9-44e9-9114-8236510d228d.png" height="150px"/></kbd>
+  <kbd><img src="https://github.com/open-minded13/2023_Rockify/assets/52095472/d1184af4-fef9-44e9-9114-8236510d228d.png" height="100px"/></kbd>
 
 # Installation
 1. To install and run this project, you will need Python 3.7 or higher and the following libraries: pandas, numpy, sklearn, spotipy, seaborn, matplotlib. You can install these libraries using pip or conda. For example:
