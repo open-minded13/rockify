@@ -1,4 +1,4 @@
-# 2023 Rockify — A Machine Learning Practice for Rock Music Sub-genre Classification | Python, Spotify Web API, scikit-learn, Random Forest
+# Rockify — A Machine Learning Practice for Rock Music Sub-genre Classification | Python, Spotify Web API, scikit-learn, Random Forest
 
 Rockify is a machine learning project that aims to classify rock music tracks into different subgenres, such as classic rock, punk rock, metal rock, etc. The motivation behind this project is to explore the potential of machine learning in music genre classification and to create a useful tool for music producers, streaming platforms, and music enthusiasts. The project uses various machine learning algorithms, such as random forest, decision tree, KNN, SVM, and logistic regression, to train and evaluate a model on a dataset of rock music tracks obtained from Spotify API. The project also provides a convenient query program that allows users to enter a song URL from Spotify and get the subgenre analysis result.
 
