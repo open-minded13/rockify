@@ -2,7 +2,7 @@
 
 Rockify is a machine learning project that aims to classify rock music tracks into different subgenres, such as classic rock, punk rock, metal rock, etc. The motivation behind this project is to explore the potential of machine learning in music genre classification and to create a useful tool for music producers, streaming platforms, and music enthusiasts. The project uses various machine learning algorithms, such as random forest, decision tree, KNN, SVM, and logistic regression, to train and evaluate a model on a dataset of rock music tracks obtained from Spotify API. The project also provides a convenient query program that allows users to enter a song URL from Spotify and get the subgenre analysis result.
 
-# Demo Photos
+## Demo Photos
 
 - We use a heatmap to see the relationship between different categories:
   
@@ -12,7 +12,7 @@ Rockify is a machine learning project that aims to classify rock music tracks in
   
   <kbd><img src="https://github.com/open-minded13/2023_Rockify/assets/52095472/d1184af4-fef9-44e9-9114-8236510d228d.png" height="100px"/></kbd>
 
-# Installation
+## Installation
 1. To install and run this project, you will need Python 3.7 or higher and the following libraries: pandas, numpy, sklearn, spotipy, seaborn, matplotlib. You can install these libraries using pip or conda. For example:
 
    `pip install pandas numpy sklearn spotipy seaborn matplotlib`
@@ -33,7 +33,7 @@ Rockify is a machine learning project that aims to classify rock music tracks in
 
    `git clone https://github.com/open-minded13/2023_Rockify`
    
-# Results
+## Results
 The main result of this project is the random forest classifier model that achieved an accuracy of 0.6310 on the test dataset. This model outperformed other models such as decision tree, KNN, SVM, and logistic regression. The model was trained on 11 audio features (Danceability, Energy, Key, Loudness, Mode, Speechiness, Acousticness, Instrumentalness, Liveness, Valence, and Tempo) obtained through the Spotify API, as well as a manual classification tag (sub-genre generated from playlists).
 
 The following table shows the accuracy scores of different models on the test dataset:
@@ -44,7 +44,7 @@ The following table shows the accuracy scores of different models on the test da
 - SVM	0.2834
 - Logistic Regression	0.4332
 
-# Discussion
+## Discussion
 The discussion section of this project provides an in-depth analysis of the results and the implications of this project for music technology. It also discusses some of the challenges faced, limitations encountered, and future directions for improvement.
 
 Some of the main points discussed are:
@@ -58,7 +58,7 @@ Some of the main points discussed are:
 - How feature selection can help to reduce dimensionality and improve efficiency
 - How additional features such as lyrics or album art can enhance genre classification
 
-# Conclusion
+## Conclusion
 Rockify is a machine learning project that demonstrates the potential of using machine learning for music genre classification. It provides a useful tool for music producers, streaming platforms, and music enthusiasts to classify rock music tracks into different subgenres based on audio features obtained from Spotify API. It also provides a convenient query program that allows users to enter a song URL from Spotify and get the subgenre analysis result.
 
 The project uses various machine learning algorithms such as random forest, decision tree, KNN, SVM, and logistic regression to train and evaluate a model on a dataset of rock music tracks. The project also performs data analysis, correlation analysis, feature importance analysis, model optimization, and result visualization.
