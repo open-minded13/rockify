@@ -68,3 +68,7 @@ The main result of this project is the random forest classifier model that achie
 The project also discusses some of the challenges faced, limitations encountered, and future directions for improvement. Some of these include improving sub-genre labeling accuracy using the Delphi technique, reducing dimensionality and improving efficiency using feature selection, and enhancing genre classification using additional features such as lyrics or album art.
 
 In summary, Rockify showcases the immense potential of machine learning in music genre classification. It provides a powerful tool for classifying songs into sub-genres of rock music based on audio features. It also provides valuable insights into how different machine learning algorithms work and compare with each other. As we continue to innovate and improve our model, we hope to empower music producers, streaming platforms, and music enthusiasts to make data-driven decisions that enhance the listening experience and create a more diverse and vibrant music industry.
+
+## Appendix - Full Report
+For potential collaborators and employers: Please see the full report for more details on the methodology and results of this project.
+- [Rockify — A Machine Learning Practice for Rock Music Sub-genre Classification](https://github.com/open-minded13/2023_Rockify/blob/main/Rockify%20%E2%80%94%20Rock%20Music%20Subgenre%20Classifier.pdf)
