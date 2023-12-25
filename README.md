@@ -25,9 +25,9 @@ Rockify is a machine learning project that aims to classify rock music tracks in
 
 3. Then, you need to set the environment variables SPOTIPY_CLIENT_ID and SPOTIPY_CLIENT_SECRET with your credentials. For example:
 
-   `export SPOTIPY_CLIENT_ID='your-client-id`
+   `export SPOTIPY_CLIENT_ID='your-client-id'`
    
-   `export SPOTIPY_CLIENT_SECRET='your-client-secret`
+   `export SPOTIPY_CLIENT_SECRET='your-client-secret'`
 
 4. Finally, you can clone this repository or download the source code as a zip file.
 
@@ -45,18 +45,18 @@ The following table shows the accuracy scores of different models on the test da
 - Logistic Regression	0.4332
 
 ## Discussion
-The discussion section of this project provides an in-depth analysis of the results and the implications of this project for music technology. It also discusses some of the challenges faced, limitations encountered, and future directions for improvement.
+The discussion section of this project (in the full report) provides an in-depth analysis of the results and the implications of this project for music technology. It also discusses some of the challenges faced, limitations encountered, and future directions for improvement.
 
 Some of the main points discussed are:
 
-- Why random forest is the best model for Rockify
-- How random forest handles non-linear relationships and reduces overfitting
-- How different models compare with each other in terms of performance and complexity
-- How correlation analysis helps to identify redundant or irrelevant features
-- How grid search helps to optimize hyperparameters for random forest model
-- How Delphi technique can help to improve sub-genre labeling accuracy
-- How feature selection can help to reduce dimensionality and improve efficiency
-- How additional features such as lyrics or album art can enhance genre classification
+- Why random forest is the best model for Rockify.
+- How random forest handles non-linear relationships and reduces overfitting.
+- How different models compare with each other in terms of performance and complexity.
+- How correlation analysis helps to identify redundant or irrelevant features.
+- How grid search helps to optimize hyperparameters for random forest model.
+- How Delphi technique can help to improve sub-genre labeling accuracy.
+- How feature selection can help to reduce dimensionality and improve efficiency.
+- How additional features such as lyrics or album art can enhance genre classification.
 
 ## Conclusion
 Rockify is a machine learning project that demonstrates the potential of using machine learning for music genre classification. It provides a useful tool for music producers, streaming platforms, and music enthusiasts to classify rock music tracks into different subgenres based on audio features obtained from Spotify API. It also provides a convenient query program that allows users to enter a song URL from Spotify and get the subgenre analysis result.
